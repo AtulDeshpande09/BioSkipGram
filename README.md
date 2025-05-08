@@ -57,7 +57,7 @@ By treating k-mers like "words", this project learns semantic relationships betw
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/BioSkipGram.git
+git clone https://github.com/AtulDeshpande09/BioSkipGram.git
 cd BioSkipGram
 
 # (Optional) Install dependencies
